@@ -1,0 +1,6 @@
+python -m pip install -r requirements.txt
+
+python fp.py --type http
+python fp.py --type https
+python fp.py --type socks4
+python fp.py --type socks5
